@@ -1,0 +1,99 @@
+using System.Collections;
+using System.Collection.Generic;
+using UnityEngine;
+
+public class EnemyAI : MonoBehaviour
+{
+  //int = 0, float = 0.0, string = "{}",
+  //bool = true || false,   
+  int speed;
+  float healt;
+  string enemyName;
+
+  EnemyWeapon weapon;
+
+  int[] intArray = new int[]{
+    1, 2, 3, 4, 5
+  };
+  
+  List<int> intList = new List<int>(){1, 2, 3, 4, 5};
+
+//    intList.Add(3)
+
+  void Movement(){
+    foreach (int intNumbers in intArray){
+      
+    }
+
+    for(int i = 0; i < intArray.Length; i++){
+      int currentNumber = intArray[i];
+    }
+
+    for (int i = 0; i < intList.Count; i++){
+      int currentNumber = intList[i];
+    }
+
+    if(speed > 0) {
+  
+    }
+  }
+  void Dead(){
+  if (healt <= 0){
+
+  }
+}
+  void Attack(){
+    weapon.Shoot()
+  }
+}
+
+public class EnemyWeapon {
+  public float damage;
+  public int fireRate;
+
+  public void Shoot() {
+  }
+}
+
+using System;
+
+namespace ExemploSoma
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Leitura do primeiro número
+            Console.Write("Digite o primeiro número: ");
+            string input1 = Console.ReadLine();
+            
+            // Leitura do segundo número
+            Console.Write("Digite o segundo número: ");
+            string input2 = Console.ReadLine();
+
+            // Conversão para double (poderia usar int, conforme sua necessidade)
+            if (double.TryParse(input1, out double num1) && double.TryParse(input2, out double num2))
+            {
+                // Chama a função de soma
+                double resultado = Somar(num1, num2);
+                
+                // Exibe o resultado
+                Console.WriteLine($"Resultado da soma: {resultado}");
+            }
+            else
+            {
+                Console.WriteLine("Entrada inválida. Certifique-se de digitar números válidos.");
+            }
+
+            // Pausa para o usuário ver o resultado antes de fechar
+            Console.WriteLine("Pressione qualquer tecla para sair...");
+            Console.ReadKey();
+        }
+
+        // Função que recebe dois valores e retorna a soma
+        static double Somar(double a, double b)
+        {
+            return a + b;
+        }
+    }
+}

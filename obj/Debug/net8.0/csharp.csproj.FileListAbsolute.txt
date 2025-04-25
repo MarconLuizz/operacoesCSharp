@@ -1,0 +1,14 @@
+C:\Users\asmar\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmar\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\csharp.AssemblyInfoInputs.cache
+C:\Users\asmar\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\csharp.AssemblyInfo.cs
+C:\Users\asmar\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\asmar\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\csharp.exe
+C:\Users\asmar\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\csharp.deps.json
+C:\Users\asmar\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\csharp.runtimeconfig.json
+C:\Users\asmar\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\csharp.dll
+C:\Users\asmar\OneDrive\Área de Trabalho\csharp\bin\Debug\net8.0\csharp.pdb
+C:\Users\asmar\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\csharp.dll
+C:\Users\asmar\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\refint\csharp.dll
+C:\Users\asmar\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\csharp.pdb
+C:\Users\asmar\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\csharp.genruntimeconfig.cache
+C:\Users\asmar\OneDrive\Área de Trabalho\csharp\obj\Debug\net8.0\ref\csharp.dll
